@@ -1,0 +1,15 @@
+create table tb_teams (id  bigserial not null, country varchar(255), league varchar(255), name varchar(255), primary key (id));
+INSERT INTO tb_teams (name, league, country) VALUES ('Paris Saint-Germain', 'League 1', 'França');
+INSERT INTO tb_teams (name, league, country) VALUES ('Manchester City', 'Premiere League', 'Inglaterra');
+INSERT INTO tb_teams (name, league, country) VALUES ('FC Bayern München', 'Bundesliga', 'Alemanha');
+INSERT INTO tb_teams (name, league, country) VALUES ('Liverpool', 'Premiere League', 'Inglaterra');
+INSERT INTO tb_teams (name, league, country) VALUES ('Manchester United', 'Premiere League', 'Inglaterra');
+INSERT INTO tb_teams (name, league, country) VALUES ('Real Madrid', 'La Liga', 'Espanha');
+INSERT INTO tb_teams (name, league, country) VALUES ('Atlético Madrid', 'La Liga', 'Espanha');
+INSERT INTO tb_teams (name, league, country) VALUES ('FC Barcelona', 'La Liga', 'Espanha');
+INSERT INTO tb_teams (name, league, country) VALUES ('Chelsea', 'Premiere League', 'Inglaterra');
+INSERT INTO tb_teams (name, league, country) VALUES ('Juventus', 'Serie A', 'Itália');
+INSERT INTO tb_teams (name, league, country) VALUES ('Tottenham Hotspur', 'Premiere League', 'Inglaterra');
+INSERT INTO tb_teams (name, league, country) VALUES ('Inter', 'Serie A', 'Itália');
+INSERT INTO tb_teams (name, league, country) VALUES ('Borussia Dortmund', 'Bundesliga', 'Alemanha');
+INSERT INTO tb_teams (name, league, country) VALUES ('Milan', 'Serie A', 'Itália');
