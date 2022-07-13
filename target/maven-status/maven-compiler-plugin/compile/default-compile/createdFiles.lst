@@ -1,0 +1,6 @@
+br\com\mcardoso\fifamatchgenerator\FifaMatchGeneratorApplication.class
+br\com\mcardoso\fifamatchgenerator\model\League.class
+br\com\mcardoso\fifamatchgenerator\model\Team$TeamBuilder.class
+br\com\mcardoso\fifamatchgenerator\model\Team.class
+br\com\mcardoso\fifamatchgenerator\model\League$LeagueBuilder.class
+br\com\mcardoso\fifamatchgenerator\controller\MatchController.class
